@@ -192,11 +192,11 @@ defaultContentLanguageInSubdir = false
   url = "#working"
   weight = 2
 
-[[menu.main]]
-  name = "Work in Process"
-  parent = "pubs"
-  url = "#inprocess"
-  weight = 3
+#[[menu.main]]
+#  name = "Work in Process"
+#  parent = "pubs"
+#  url = "#inprocess"
+#  weight = 3
 
 #[[menu.main]]
 #  name = "Recent"

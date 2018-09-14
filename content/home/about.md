@@ -1,7 +1,7 @@
 +++
 # About/Biography widget.
 
-date = "2017-09-21T00:00:00"
+date = "2018-09-13T00:00:00"
 draft = false
 
 widget = "about"
@@ -39,6 +39,6 @@ weight = 1
 
 # Biography
 
-I'm a visiting professor in the Fisher School of Accounting at the University of Florida. My research has thus far primarily focused on the use of natural language in corporate disclosures and what we can learn from text beyond what's obvious to a human reader. While my past papers have used various types of machine learning and artificial intelligence approaches, more current projects move even more in the direction of data science and how it can be used to better understand and evaluate companies. You can find more information on my [CV](/files/personal/CV - Stephen Brown.pdf) and [LinkedIn](http://linkedin.com/in/stephenvbrown) page.
+I'm an assistant professor in the [Accounting Department](http://accounting.business.uconn.edu/) at the [University of Connecticut](http://www.uconn.edu/). My research has thus far primarily focused on what we can learn from language in corporate disclosures beyond what's obvious to a human reader and how information about one company can tell us more about similar companies. While my past papers have used various types of machine learning and artificial intelligence approaches, more current projects move even more in the direction of data science and how it can be used to better understand and evaluate companies. You can find more information on my [CV](/files/personal/CV - Stephen Brown.pdf) and [LinkedIn](http://linkedin.com/in/stephenvbrown) page.
 
 In my downtime, I enjoy [photography](http://create.stephenvbrown.com/), playing acoustic guitar, and anything outdoors.

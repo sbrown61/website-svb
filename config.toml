@@ -1,6 +1,6 @@
 baseurl = "https://www.stephenvbrown.com/"
 title = "Stephen V. Brown, Ph.D., CPA"
-copyright = "&copy; 2017 Stephen V. Brown"
+copyright = "&copy; 2018 Stephen V. Brown"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -34,16 +34,16 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Stephen V. Brown"
-  role = "Visiting Assistant Professor"
+  role = "Assistant Professor"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Florida", url = "http://warrington.ufl.edu/accounting/" } ]
+  organizations = [ { name = "University of Connecticut", url = "http://www.uconn.edu/" } ]
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "stephen.brown@ufl.edu"
-  address = "University of Florida, Warrington College of Business, Fisher School of Accounting, PO Box 117166, Gainesville, Florida 32611-7166"
-  office_hours = "Gerson 227B; Email for appointment"
+  email = "stephen.v.brown@uconn.edu"
+  address = "University of Connecticut, School of Business, Accounting Department, 2100 Hillside Road, Unit 1041, Storrs, CT 06269"
+  office_hours = "BUSN 430; Email for appointment"
   phone = ""
   skype = ""
   telegram = ""
@@ -137,7 +137,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:stephen.brown@ufl.edu"
+    link = "mailto:stephen.v.brown@uconn.edu"
 
   [[params.social]]
     icon = "linkedin"
